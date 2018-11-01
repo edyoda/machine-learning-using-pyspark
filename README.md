@@ -79,7 +79,9 @@
 * GaussianMixtureModel
 * Latent Dirichlet Allocation
 
-#### 10. Pipeline & Hyper-parameter Tuning
+#### 10. Recommandation Engine 
+
+#### 11. Pipeline & Hyper-parameter Tuning
 * Composite Estimators using Pipelines
 * Model Selection
 * Hyper-parameter Tuning
